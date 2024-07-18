@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMbspV2_FmQUpNFFIT69iUZVe_z9EkkQIvKYzoRxg6PfPiDncBYcBk4=w480-h4-s-no-gm?authuser=0" width="10" >
+
 ###
 
 /*<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>*/
