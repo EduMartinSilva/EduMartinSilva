@@ -6,29 +6,6 @@
 
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
 
-
-<style>
-.title {
-
-  animation-duration: 3s;
-  animation-name: slidein;
-}
-
-@keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
-}
-</style>
-
-
-
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo"  />
