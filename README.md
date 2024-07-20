@@ -1,11 +1,31 @@
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
 
+<div class="title">
 <h1 align="left">Olá, Seja Bem Vindo!</h1'>
+</div>
 
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
 
 
+<style>
+.title {
 
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+</style>
 
 
 
