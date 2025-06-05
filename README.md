@@ -1,9 +1,11 @@
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
+<h1 align="center">Eduardo Martins da Silva</h1>
+<p align="center">💻 Desenvolvedor Full Stack | Estudante de Ciência da Computação | Entusiasta de tecnologia</p>
 
 <div class="title">
 <h1 align="left">Olá, Seja Bem Vindo!</h1'>
 </div>
-👨‍💻 <h2 align="left"> Sobre mim </h2>
+<h2 align="left"> 👨‍💻 Sobre mim </h2>
 
 Sou desenvolvedor com experiência em **programação web full stack**, com foco em desenvolvimento de sistemas utilizando **HTML5, CSS3, JavaScript, PHP, MySQL e Python**.
 
