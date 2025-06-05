@@ -8,7 +8,7 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
 
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
 
-###
+<h2 align="left"> Tech Skills </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -42,11 +42,10 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="35" alt="instagram logo"  />
 </div>
 
-###
+
 
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
 
-###
 
 <picture align="center">
   <source
@@ -63,7 +62,7 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
   />
 </picture>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduMartinSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue_navy&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -73,4 +72,4 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
 
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
 
-###
+
