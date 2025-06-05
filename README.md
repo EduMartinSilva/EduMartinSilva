@@ -29,7 +29,6 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="mysql logo"  />
 </div>
 
-
 <div align="left">
   <h2>Social</h2'><br><br>
   <a href="https://www.linkedin.com/in/eduardo-martins-da-silva/" target="_blank">
@@ -42,10 +41,7 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="35" alt="instagram logo"  />
 </div>
 
-
-
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
-
 
 <picture align="center">
   <source
@@ -61,8 +57,6 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduMartinSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue_navy&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
