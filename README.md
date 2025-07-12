@@ -1,13 +1,11 @@
 <h1 align="center"> Eduardo Martins da Silva </h1>
 <p align="center">Desenvolvedor Full Stack | Estudante de Ciência da Computação | Entusiasta de Tecnologia</p>
 <img src="giphy.gif" width="1100" height="2" >
-<h3 align="center" > Sobre mim </h3>
+<h2 align="center" > Sobre mim </h2>
 Sou desenvolvedor com experiência em **programação web full stack**, com foco em desenvolvimento de sistemas utilizando **HTML5, CSS3, JavaScript, PHP, MySQL e Python**.
 
-<img src="giphy.gif" width="1100" height="2" >
-
 <div align="center">
-  <h3> Tech Skills </h3>
+  <h2> Tech Skills </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
@@ -28,7 +26,7 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
 </div>
 
 <div align="center">
-  <h3>Social </h3>
+  <h2>Social </h2>
   <a href="https://www.linkedin.com/in/eduardo-martins-da-silva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
   </a>
