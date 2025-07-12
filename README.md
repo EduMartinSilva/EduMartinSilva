@@ -1,5 +1,5 @@
 <h3 align="center"> Eduardo Martins da Silva </h3>
-<img src="giphy-_1_ (1).gif" width="1100" height="2" >
+<img src="giphy.gif" width="1100" height="2" >
 <p align="center">Desenvolvedor Full Stack | Estudante de Ciência da Computação | Entusiasta de Tecnologia</p>
 
 <h2 align="left" > Sobre mim </h2>
@@ -38,7 +38,7 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="35" alt="instagram logo"  />
 </div>
 
-<img src="giphy-_1_ (1).gif" width="1100" height="2" >
+<img src="giphy.gif" width="1100" height="2" >
 
 <picture align="center">
   <source
@@ -61,4 +61,4 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
   <img src="https://streak-stats.demolab.com?user=EduMartinSilva&locale=en&mode=daily&theme=blue_navy&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<img src="giphy-_1_ (1).gif" width="1100" height="2" >
+<img src="giphy.gif" width="1100" height="2" >
