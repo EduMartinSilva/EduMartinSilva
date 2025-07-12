@@ -1,8 +1,9 @@
 <h1 align="center"> Eduardo Martins da Silva </h1>
-<p align="center">Desenvolvedor Full Stack | Estudante de Ciência da Computação | Entusiasta de Tecnologia</p>
+<p align="center"> 👨‍💻 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação | 🚀 Entusiasta de Tecnologia</p>
 <img src="giphy.gif" width="1100" height="2" >
 <h2 align="center" > Sobre mim </h2>
-Sou desenvolvedor com experiência em **programação web full stack**, com foco em desenvolvimento de sistemas utilizando **HTML5, CSS3, JavaScript, PHP, MySQL e Python**.
+
+Sou desenvolvedor full stack em formação, com foco na criação de sistemas web utilizando **HTML5, CSS3, JavaScript, PHP, MySQL e Python**. Apaixonado por tecnologia, estou sempre buscando novos desafios e aprendizados que me ajudem a crescer como profissional e entregar soluções que realmente façam a diferença.
 
 <div align="center">
   <h2> Tech Skills </h2>
@@ -60,3 +61,4 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
 </div>
 
 <img src="giphy.gif" width="1100" height="2" >
+
