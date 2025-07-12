@@ -5,8 +5,8 @@
 <h2 align="left" > Sobre mim </h2>
 Sou desenvolvedor com experiência em **programação web full stack**, com foco em desenvolvimento de sistemas utilizando **HTML5, CSS3, JavaScript, PHP, MySQL e Python**.
 
-<h2 align="left"> Tech Skills </h2>
 <div align="center">
+  <h2> Tech Skills </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
