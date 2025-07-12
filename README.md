@@ -1,13 +1,13 @@
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
-<h1 align="center">Eduardo Martins da Silva</h1>
+## Eduardo Silva 🚀
 <p align="center">💻 Desenvolvedor Full Stack | Estudante de Ciência da Computação | Entusiasta de tecnologia</p>
+<img src="giphy-_1_ (1).gif" width="1100" height="2" >
 
 <h2 align="left"> 👨‍💻 Sobre mim </h2>
-
 Sou desenvolvedor com experiência em **programação web full stack**, com foco em desenvolvimento de sistemas utilizando **HTML5, CSS3, JavaScript, PHP, MySQL e Python**.
 
 <img src="giphy-_1_ (1).gif" width="1100" height="2" >
-
+## Eduardo Silva 🚀
 <h2 align="left"> Tech Skills </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo"  />
