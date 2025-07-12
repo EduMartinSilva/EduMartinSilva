@@ -2,7 +2,7 @@
 <img src="giphy.gif" width="1100" height="2" >
 <p align="center">Desenvolvedor Full Stack | Estudante de Ciência da Computação | Entusiasta de Tecnologia</p>
 <img src="giphy.gif" width="1100" height="2" >
-<h3 align="left" > Sobre mim </h3>
+<h3 align="center" > Sobre mim </h3>
 Sou desenvolvedor com experiência em **programação web full stack**, com foco em desenvolvimento de sistemas utilizando **HTML5, CSS3, JavaScript, PHP, MySQL e Python**.
 
 <img src="giphy.gif" width="1100" height="2" >
