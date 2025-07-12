@@ -31,7 +31,6 @@ Sou desenvolvedor com experiência em **programação web full stack**, com foco
   <a href="https://www.linkedin.com/in/eduardo-martins-da-silva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="35" alt="discord logo"  />
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="gmail logo"  />
   </a>
