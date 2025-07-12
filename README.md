@@ -1,5 +1,4 @@
-<h3 align="center"> Eduardo Martins da Silva </h3>
-<img src="giphy.gif" width="1100" height="2" >
+<h1 align="center"> Eduardo Martins da Silva </h1>
 <p align="center">Desenvolvedor Full Stack | Estudante de Ciência da Computação | Entusiasta de Tecnologia</p>
 <img src="giphy.gif" width="1100" height="2" >
 <h3 align="center" > Sobre mim </h3>
